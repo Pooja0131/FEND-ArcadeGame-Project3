@@ -1,0 +1,21 @@
+/*Basic Styles*/
+
+body {
+    text-align: center;
+	font-family: 'Play', sans-serif;
+	font-size: 24px;
+	color: #FFA07A;
+}
+
+.h1{
+	margin-bottom: 0px;
+}
+
+.hr{
+	width: 15%;
+	border: 1px solid #FFA07A;
+}
+
+.h2{
+	margin-bottom: 0px;
+}
